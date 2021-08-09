@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Agenda/Agenda.iml" filepath="$PROJECT_DIR$/Agenda/Agenda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curso_POO_cursoemvideo/Curso_POO_cursoemvideo.iml" filepath="$PROJECT_DIR$/Curso_POO_cursoemvideo/Curso_POO_cursoemvideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Elevador/Elevador.iml" filepath="$PROJECT_DIR$/Elevador/Elevador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPOO/JavaPOO.iml" filepath="$PROJECT_DIR$/JavaPOO/JavaPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPOO_2/JavaPOO_2.iml" filepath="$PROJECT_DIR$/JavaPOO_2/JavaPOO_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OlaMundoJavaFX/OlaMundoJavaFX.iml" filepath="$PROJECT_DIR$/OlaMundoJavaFX/OlaMundoJavaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO - JAVA -Loiane/POO - JAVA -Loiane.iml" filepath="$PROJECT_DIR$/POO - JAVA -Loiane/POO - JAVA -Loiane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/POO-JAVA.iml" filepath="$PROJECT_DIR$/.idea/POO-JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO.Car/POO.Car.iml" filepath="$PROJECT_DIR$/POO.Car/POO.Car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pessoa/Pessoa.iml" filepath="$PROJECT_DIR$/Pessoa/Pessoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RelogioSwing/RelogioSwing.iml" filepath="$PROJECT_DIR$/RelogioSwing/RelogioSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SomaSwing/SomaSwing.iml" filepath="$PROJECT_DIR$/SomaSwing/SomaSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TabuadaJava/TabuadaJava.iml" filepath="$PROJECT_DIR$/TabuadaJava/TabuadaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Televisao/Televisao.iml" filepath="$PROJECT_DIR$/Televisao/Televisao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadoraidade/calculadoraidade.iml" filepath="$PROJECT_DIR$/calculadoraidade/calculadoraidade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cursoemvideo/cursoemvideo.iml" filepath="$PROJECT_DIR$/cursoemvideo/cursoemvideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exe02_GFT/exe02_GFT.iml" filepath="$PROJECT_DIR$/exe02_GFT/exe02_GFT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exe03_GFT/exe03_GFT.iml" filepath="$PROJECT_DIR$/exe03_GFT/exe03_GFT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exeBanco/exeBanco.iml" filepath="$PROJECT_DIR$/exeBanco/exeBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_poo03/java_poo03.iml" filepath="$PROJECT_DIR$/java_poo03/java_poo03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/media.java/media.java.iml" filepath="$PROJECT_DIR$/media.java/media.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_java/poo_java.iml" filepath="$PROJECT_DIR$/poo_java/poo_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/praticando/praticando.iml" filepath="$PROJECT_DIR$/praticando/praticando.iml" />
+    </modules>
+  </component>
+</project>
